@@ -8,7 +8,7 @@ Intended for the Preliminary Activity no.3 under the course ITEW6- Web Developme
 
 Node.js version used: 10.2.4
 
-In case of error:
-1. I used npm install -g @vue/cli in the cmd inside the project directory
-2. I used the command vue upgrade in the cmd inside the project directory
+In case of error compiling the app:
+1. I used npm install in the cmd inside the project directory
+2. I used the command vue upgrade in the cmd inside the project directory to update dependencies
 3. I used npm run serve to finally run the application.
