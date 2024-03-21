@@ -9,7 +9,7 @@
       <!--Format for the Shopping Cart-->
       <table class="table text-center">
         <thead class="table-info">
-          <tr >
+          <tr>
             <th>Product</th>
             <th>Price</th>
             <th>Quantity</th>
